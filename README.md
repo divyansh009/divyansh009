@@ -1,4 +1,4 @@
-![logo](https://github.com/divyansh009/divyansh009/blob/main/COVER.png)
+![logo](https://github.com/divyansh009/divyansh009/blob/main/COVER1.png)
 <h1 align="center">Hi 👋, I'm Divyansh Bisht</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
